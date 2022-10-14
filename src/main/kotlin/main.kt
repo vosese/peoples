@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val likes: Int = 52
     val end: Int = likes % 10
     if (end == 1) {
